@@ -365,3 +365,4 @@ FodyWeavers.xsd
 # unignore .obj
 !/Computing-Pixel-Coordinates/src/*.obj
 !/Virtual-pinhole-Camera/src/*.obj
+!/Rasterization/src/*.obj
