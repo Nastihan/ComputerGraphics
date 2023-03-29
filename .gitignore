@@ -366,3 +366,4 @@ FodyWeavers.xsd
 !/Computing-Pixel-Coordinates/src/*.obj
 !/Virtual-pinhole-Camera/src/*.obj
 !/Rasterization/src/*.obj
+!/Projection-Matrix/src/*.obj
