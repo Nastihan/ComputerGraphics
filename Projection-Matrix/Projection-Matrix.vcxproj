@@ -143,7 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\projmatrix.cpp" />
+    <ClCompile Include="src\ProjMatrix.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Utility.h" />
