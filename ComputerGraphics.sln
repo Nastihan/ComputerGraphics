@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rasterization", "Rasterizat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Projection-Matrix", "Projection-Matrix\Projection-Matrix.vcxproj", "{1690F580-A860-4419-B921-64B29DFF72A4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Camera-Rays", "Camera-Rays\Camera-Rays.vcxproj", "{90C6FD93-36BA-44BF-9824-92A9A0E89354}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{1690F580-A860-4419-B921-64B29DFF72A4}.Release|x64.Build.0 = Release|x64
 		{1690F580-A860-4419-B921-64B29DFF72A4}.Release|x86.ActiveCfg = Release|Win32
 		{1690F580-A860-4419-B921-64B29DFF72A4}.Release|x86.Build.0 = Release|Win32
+		{90C6FD93-36BA-44BF-9824-92A9A0E89354}.Debug|x64.ActiveCfg = Debug|x64
+		{90C6FD93-36BA-44BF-9824-92A9A0E89354}.Debug|x64.Build.0 = Debug|x64
+		{90C6FD93-36BA-44BF-9824-92A9A0E89354}.Debug|x86.ActiveCfg = Debug|Win32
+		{90C6FD93-36BA-44BF-9824-92A9A0E89354}.Debug|x86.Build.0 = Debug|Win32
+		{90C6FD93-36BA-44BF-9824-92A9A0E89354}.Release|x64.ActiveCfg = Release|x64
+		{90C6FD93-36BA-44BF-9824-92A9A0E89354}.Release|x64.Build.0 = Release|x64
+		{90C6FD93-36BA-44BF-9824-92A9A0E89354}.Release|x86.ActiveCfg = Release|Win32
+		{90C6FD93-36BA-44BF-9824-92A9A0E89354}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
