@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minimal-Ray-Tracer", "Minim
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ray-Tracer-Triangle", "Ray-Tracer-Triangle\Ray-Tracer-Triangle.vcxproj", "{73062171-F271-48D9-A6B3-0A7309469255}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ray-Trace-Polygon-Mesh", "Ray-Trace-Polygon-Mesh\Ray-Trace-Polygon-Mesh.vcxproj", "{F801C683-E3C5-4FD8-971D-11797D3C12F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{73062171-F271-48D9-A6B3-0A7309469255}.Release|x64.Build.0 = Release|x64
 		{73062171-F271-48D9-A6B3-0A7309469255}.Release|x86.ActiveCfg = Release|Win32
 		{73062171-F271-48D9-A6B3-0A7309469255}.Release|x86.Build.0 = Release|Win32
+		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Debug|x64.ActiveCfg = Debug|x64
+		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Debug|x64.Build.0 = Debug|x64
+		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Debug|x86.Build.0 = Debug|Win32
+		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Release|x64.ActiveCfg = Release|x64
+		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Release|x64.Build.0 = Release|x64
+		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Release|x86.ActiveCfg = Release|Win32
+		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
