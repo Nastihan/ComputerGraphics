@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ray-Tracer-Triangle", "Ray-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ray-Trace-Polygon-Mesh", "Ray-Trace-Polygon-Mesh\Ray-Trace-Polygon-Mesh.vcxproj", "{F801C683-E3C5-4FD8-971D-11797D3C12F4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shading", "Shading\Shading.vcxproj", "{AC2BEF9D-AFD8-444D-BD23-13160BADE23D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Release|x64.Build.0 = Release|x64
 		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Release|x86.ActiveCfg = Release|Win32
 		{F801C683-E3C5-4FD8-971D-11797D3C12F4}.Release|x86.Build.0 = Release|Win32
+		{AC2BEF9D-AFD8-444D-BD23-13160BADE23D}.Debug|x64.ActiveCfg = Debug|x64
+		{AC2BEF9D-AFD8-444D-BD23-13160BADE23D}.Debug|x64.Build.0 = Debug|x64
+		{AC2BEF9D-AFD8-444D-BD23-13160BADE23D}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC2BEF9D-AFD8-444D-BD23-13160BADE23D}.Debug|x86.Build.0 = Debug|Win32
+		{AC2BEF9D-AFD8-444D-BD23-13160BADE23D}.Release|x64.ActiveCfg = Release|x64
+		{AC2BEF9D-AFD8-444D-BD23-13160BADE23D}.Release|x64.Build.0 = Release|x64
+		{AC2BEF9D-AFD8-444D-BD23-13160BADE23D}.Release|x86.ActiveCfg = Release|Win32
+		{AC2BEF9D-AFD8-444D-BD23-13160BADE23D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
